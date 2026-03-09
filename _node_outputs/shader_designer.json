@@ -1,0 +1,91 @@
+{
+  "gallery_title": "Echoes of Flora and Tide",
+  "gallery_description": "This collection immerses viewers in the serene interplay between plant life and oceanic depths, crafting a meditative experience that soothes the mind. Each piece invites exploration into organic forms and fluid motions, creating a visual sanctuary that resonates with tranquility.",
+  "pieces": [
+    {
+      "title": "Coral Reverie",
+      "description": "A vibrant underwater scene where abstract coral formations pulsate gently, creating a sense of depth and harmony.",
+      "technique": "raymarching",
+      "secondary_techniques": [
+        "sdf blending"
+      ],
+      "palette": [
+        "#A6D8D6",
+        "#FF6F61",
+        "#A3C1AD",
+        "#4B9CD3",
+        "#FDE158"
+      ],
+      "motion": "The coral structures morph and sway like living organisms, reacting to an unseen current.",
+      "mouse_effect": "Moving the mouse causes the coral to ripple, revealing hidden textures and colors."
+    },
+    {
+      "title": "Fractal Ferns",
+      "description": "A mesmerizing display of intricate fern-like fractals that spiral and weave into a lush tapestry of green.",
+      "technique": "fractal",
+      "secondary_techniques": [
+        "fbm noise"
+      ],
+      "palette": [
+        "#6FBF8C",
+        "#A1DCA9",
+        "#E3FCE9",
+        "#2F4C4C",
+        "#E9FCE9"
+      ],
+      "motion": "The ferns gently unfurl and curl, simulating the ebb and flow of ocean waves.",
+      "mouse_effect": "The ferns dynamically adjust their colors based on mouse position, enhancing their organic feel."
+    },
+    {
+      "title": "Luminous Tide Pools",
+      "description": "A tranquil scene depicting glowing tide pools filled with abstract marine life, reflecting a serene night sky.",
+      "technique": "fbm noise",
+      "secondary_techniques": [
+        "flow field"
+      ],
+      "palette": [
+        "#1B2A6D",
+        "#0F3C4C",
+        "#6D9CBE",
+        "#74CAD1",
+        "#E7F6F2"
+      ],
+      "motion": "The pools ripple softly, creating fluid reflections that shift with the viewer's perspective.",
+      "mouse_effect": "Hovering over the pools causes bioluminescent effects, illuminating the scene with vibrant colors."
+    },
+    {
+      "title": "Waves of Geometry",
+      "description": "A geometric interpretation of ocean waves, where triangular shapes create a hypnotic dance of form and light.",
+      "technique": "truchet tiling",
+      "secondary_techniques": [
+        "kaleidoscope"
+      ],
+      "palette": [
+        "#3A8EBA",
+        "#C4D8E6",
+        "#F1F3F5",
+        "#5A9B8A",
+        "#A8DAD6"
+      ],
+      "motion": "The shapes shift and rotate, mimicking the dynamic nature of waves in motion.",
+      "mouse_effect": "Mouse movement distorts the tiles, creating an interactive wave pattern that reacts in real time."
+    },
+    {
+      "title": "Oceanic Whispers",
+      "description": "An ethereal blend of flowing patterns reminiscent of seaweed swaying with the tides, enveloping the viewer in its soft embrace.",
+      "technique": "flow field",
+      "secondary_techniques": [
+        "perlin landscape"
+      ],
+      "palette": [
+        "#E1F2E4",
+        "#A7D8D0",
+        "#B7E1E1",
+        "#B2C2C2",
+        "#5B9B75"
+      ],
+      "motion": "The patterns ripple and flow continuously, creating a serene, meditative atmosphere.",
+      "mouse_effect": "The flow field responds to mouse movement, with a gentle wave effect that enhances the organic feel."
+    }
+  ]
+}
